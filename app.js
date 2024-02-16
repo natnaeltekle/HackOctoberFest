@@ -5,6 +5,7 @@ const {aman}=require('./6alternativeWay.js');// when u require module iot automa
 // console.log(sayHi(name))
 // console.log(name);
 console.log(aman);
+let mytestvariable = 1;
 // console.log(name1,name2,name);
 
 console.time();
